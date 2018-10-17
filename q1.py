@@ -2,7 +2,7 @@
 
 import numpy as np
 
-# modify this function, and create other functions below as you wish
+# modify this function, and create other functions below
 def question01(portfolios):
   # modify and then return the variable below
   answer = 0
